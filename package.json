@@ -2,7 +2,7 @@
   "name": "os-react-mentions",
   "version": "1.2.0",
   "description": "custommized mentions input for os project",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "npm run env NODE_ENV=test && mocha",
     "transpile": "npm run env NODE_ENV=production && babel src --out-dir lib",
