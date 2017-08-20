@@ -1,7 +1,7 @@
 {
-  "name": "react-mentions",
+  "name": "os-react-mentions",
   "version": "1.2.0",
-  "description": "React mentions input",
+  "description": "custommized mentions input for os project",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run env NODE_ENV=test && mocha",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/effektif/react-mentions.git"
+    "url": "https://github.com/fayezqandeel/react-mentions"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "author": "Jan-Felix Schwarz",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/effektif/react-mentions/issues"
+    "url": "https://github.com/fayezqandeel/react-mentions/issues"
   },
-  "homepage": "https://github.com/effektif/react-mentions",
+  "homepage": "https://github.com/fayezqandeel/react-mentions",
   "devDependencies": {
     "babel-cli": "^6.23.0",
     "babel-core": "^6.22.1",
